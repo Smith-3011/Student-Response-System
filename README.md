@@ -260,5 +260,5 @@ For issues and questions:
 
 ---
 
-**Built with ❤️ for modern education**
+
 
