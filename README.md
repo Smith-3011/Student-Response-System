@@ -1,4 +1,4 @@
-﻿# Live Polling System (Intervue.io)
+﻿# Student Response System
 
 A live interactive polling system for the classroom, where teachers can create polls in real-time and students can answer live. Constructed using React 19, Node.js, and Socket.IO, it supports live results, live chat, student management, and a poll history—all perfect for increasing participation and online learning.
 
